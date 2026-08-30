@@ -7,7 +7,7 @@
 
 ## SIH26-A0H-T238
 ### Team Details
-#### **Isis** <<Isis>> <br/>
+#### **Team Name: Isis** 
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
