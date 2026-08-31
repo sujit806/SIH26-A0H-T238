@@ -15,7 +15,7 @@
 |    Member 2     |   Sanjai P              |   CB.AI.U4CPS25043     |    Male         |  B.Tech AID(CPSS)/School of AI  |  
 |    Member 3     |   Prince Raj Y          |   CB.SC.U4CSE25262     |    Male         |  B.Tech CSE/School of Computing |  
 |    Member 4     |   Prajin P              |   CB.AI.U4AAR25063     |    Male         |  B.Tech AID(AARS)/School of AI  |   
-|    Member 5     |   Dharini K B           |   CB.SC.U4AIE25114     |    Female       |  B.Tech CSE(AI)/School of AI    |  
+|    Member 5     |   Dharini K B           |   CB.SC.U4AIE25114     |    Female       |  B.Tech AIE/School of AI        |  
 |    Member 6     |   Elipe Geethika Sriraj |   CB.AI.U4CPS25017     |    Female       |  B.Tech AID(CPSS)/School of AI  |   
 
 #### Mentor Details
